@@ -1,0 +1,14 @@
+.signup-style{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+a{
+  color: black
+}
+
+h1{
+  color: rgb(236, 201, 125);
+}

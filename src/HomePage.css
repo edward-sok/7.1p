@@ -1,0 +1,41 @@
+td{
+    table-layout: auto;
+    
+    text-align:center;
+
+}
+
+.Dev{
+    font-weight: bold;
+    background-color: grey;
+    width: 180px;
+
+}
+
+.Search{
+    font-weight: bold;
+    width: 600px;
+
+}
+
+.postbutton{
+    background-color:grey;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: aqua;
+  }
+
+
+input[type="text123"] {
+    width: 500px;
+}
